@@ -1,0 +1,6 @@
+
+.DS_Store
+*.pyc
+*.egg-info
+server/localdev-config.json
+build
